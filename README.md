@@ -13,7 +13,7 @@ npm i modal-pkg-opc
 In your `App.jsx` file
 
 ```jsx
-import React from "react";
+import React, { useState } from "react";
 
 import Modal from "modal-pkg-opc";
 
