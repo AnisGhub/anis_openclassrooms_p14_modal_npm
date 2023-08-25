@@ -1,6 +1,6 @@
 {
   "name": "modal-pkg-opc",
-  "version": "1.0.6",
+  "version": "1.0.8",
   "description": "a simple react modal library used for a small project",
   "main": "dist/Modal.js",
   "scripts": {
